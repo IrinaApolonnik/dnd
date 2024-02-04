@@ -17,3 +17,7 @@ a:nth-of-type(2) {
     right: 5vw;
     top: 21.5vh;
 }
+a:nth-of-type(3) {
+    left: 27vw;
+    bottom: 20.5vh;
+}

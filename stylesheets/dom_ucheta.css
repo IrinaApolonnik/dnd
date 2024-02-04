@@ -1,0 +1,62 @@
+#du1 {
+    width: 17vw;
+    height: 25vh;
+    top: 17.7vh;
+    left: 17vw;
+}
+#du2 {
+    width: 21.5vw;
+    height: 25vh;
+    top: 50.5vh;
+    left: 17vw;
+}
+#du3 {
+    width: 17.5vw;
+    height: 25vh;
+    top: 17.7vh;
+    left: 44.2vw;
+}
+#du4 {
+    width: 17.5vw;
+    height: 12vh;
+    top: 11vh;
+    left: 30vw;
+}
+#du5 {
+    width: 17.5vw;
+    height: 25vh;
+    top: 17.7vh;
+    left: 58vw;
+}
+#du6 {
+    width: 18vw;
+    height: 37vh;
+    top: 50.5vh;
+    left: 44vw;
+}
+#du7 {
+    width: 18vw;
+    height: 37vh;
+    top: 50.5vh;
+    left: 58vw;
+}
+#du8 {
+    width: 13vw;
+    height: 42vh;
+    top: 38vh;
+    left: 72.3vw;
+}
+#du9 {
+    width: 58.5vw;
+    height: 70vh;
+    top: 17.7vh;
+    left: 17vw;
+}
+.du_second_floor {
+    position: absolute;
+    width: 9vw;
+    height: 15vh;
+    top: 20vh;
+    left: 37vw;
+}
+
