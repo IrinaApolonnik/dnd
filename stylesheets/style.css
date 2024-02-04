@@ -1,0 +1,71 @@
+@import 'reset.css';
+@import "fonts.css";
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.map {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.hero {
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    z-index: 10;
+    cursor: pointer;
+}
+h1 {
+    position: absolute;
+    font-family: 'Spectral SC';
+    font-size: 5vw;
+    text-shadow: -3px 3px 4px rgba(0.21482278406620026, 0.21377801895141602, 0.2660156190395355, 0.5);
+    color: aliceblue;
+    left: 5vw;
+    bottom: 7vh;
+}
+.back {
+    position: absolute;
+    width: 7vw;
+    height: 7vw;
+    top: 7vh;
+    left: 5vw;
+    transition: all 90ms ease-out;
+}
+.back img {
+    width: 100%;
+    height: 100%;
+}
+.back:hover {
+    transform: scale(0.9);
+    transition: all 90ms ease-out;
+}
+.shadow {
+    position: absolute;
+    cursor: pointer;
+}
+.hero:nth-of-type(2) {
+    top: 27vh;
+    left: 7vw;
+}
+.hero:nth-of-type(3) {
+    top: 37vh;
+    left: 7vw;
+}
+.hero:nth-of-type(4) {
+    top: 47vh;
+    left: 7vw;
+}
+.hero:nth-of-type(5) {
+    top: 57vh;
+    left: 7vw;
+}
+.hero:nth-of-type(6) {
+    top: 67vh;
+    left: 7vw;
+}

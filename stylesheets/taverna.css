@@ -1,0 +1,43 @@
+#t1 {
+    width: 52.7vw;
+    height: 87.3vh;
+    top: 6vh;
+    left: 34.7vw;
+}
+#t2 {
+    width: 21.5vw;
+    height: 25vh;
+    top: 6vh;
+    left: 66vw;
+}
+#t3 {
+    width: 26.1vw;
+    height: 31vh;
+    top: 6vh;
+    left: 12.2vw;
+}
+#t4 {
+    width: 21.5vw;
+    height: 23vh;
+    top: 26vh;
+    left: 66vw;
+}
+#t5 {
+    width: 21.5vw;
+    height: 25vh;
+    top: 69vh;
+    left: 66vw;
+}
+.luk {
+    position: absolute;
+    width: 6.08vw;
+    height: 5.5vh;
+    top: 72vh;
+    left: 79vw;
+}
+#tp1 {
+    width: 64.5vw;
+    height: 66vh;
+    top: 17vh;
+    left: 17vw;
+}
