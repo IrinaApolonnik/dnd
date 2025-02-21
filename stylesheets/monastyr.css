@@ -1,0 +1,63 @@
+body {
+    overflow: hidden;
+}
+#m2 {
+    top: 269px;
+    left: 481px;
+}
+#m3 {
+    bottom: 0;
+    left: 574px;
+}
+#m4 {
+    top: 49px;
+    right: 90px;
+}
+#m5 {
+    bottom: 52px;
+    right: 58px;
+}
+#m6 {
+    bottom: 240px;
+    left: 0;
+}
+#mp1 {
+    bottom: 0;
+    left: 0;
+}
+#mb1 {
+    bottom: 161px;
+    left: 459px;
+}
+.m {
+    position: absolute;
+    display: block;
+    height: 94px;
+    width: 42px;
+    top: 162px;
+    right: 677px;
+}
+.mPodval {
+    position: absolute;
+    display: block;
+    height: 34px;
+    width: 67px;
+    bottom: 106px;
+    right: 258px;
+}
+.mm {
+    position: absolute;
+    display: block;
+    height: 174px;
+    width: 174px;
+    top: 337px;
+    right: 633px;
+}
+.mBashnya {
+    position: absolute;
+    display: block;
+    height: 60px;
+    width: 60px;
+    top: 330px;
+    left: 589px;
+}

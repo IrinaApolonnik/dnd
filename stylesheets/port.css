@@ -1,0 +1,23 @@
+body {
+    overflow: hidden;
+}
+#p1 {
+    top: 165px;
+    right: 0;
+}
+#p2 {
+    bottom: 0;
+    left: 255px;
+}
+#p3 {
+    bottom: 0;
+    right: 293px;
+}
+#p4 {
+    bottom: 0;
+    right: 109px;
+}
+#p5 {
+    bottom: 0;
+    right: 0;
+}

@@ -4,14 +4,15 @@
     box-sizing: border-box;
 }
 body {
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
+    position: relative;
+    width: 1440px; 
+    overflow-x: hidden;
+    height: auto;
+    background-color: black;
 }
 .map {
     width: 100%;
-    height: 100%;
-    position: absolute;
+    height: auto;
 }
 .hero {
     position: absolute;
@@ -19,6 +20,18 @@ body {
     height: 4vw;
     z-index: 10;
     cursor: pointer;
+}
+.enemy {
+    top: 37vh;
+    right: 7vw;
+}
+.neutral {
+    top: 47vh;
+    right: 7vw;
+}
+.friend {
+    top: 57vh;
+    right: 7vw;
 }
 h1 {
     position: absolute;
@@ -48,6 +61,7 @@ h1 {
 .shadow {
     position: absolute;
     cursor: pointer;
+    filter: blur(6px);
 }
 .hero:nth-of-type(2) {
     top: 27vh;

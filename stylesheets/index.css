@@ -1,23 +1,49 @@
 a {
     position: absolute;
     font-family: 'Spectral SC';
-    font-size: 1.5vw;
+    font-size: 32px;
     text-shadow: -3px 3px 4px rgba(0.21482278406620026, 0.21377801895141602, 0.2660156190395355, 0.5);
     text-align: center;
 }
-.hero {
-    right: 5vw;
-    top: 21.5vh;
+#m1 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+a:nth-of-type(9) {
+    right: 45px;
+    bottom: 320px;
 }
 a:nth-of-type(1) {
-    right: 10.5vw;
-    top: 32vh;
+    left: 374px;
+    bottom: 291px;
 }
 a:nth-of-type(2) {
-    right: 5vw;
-    top: 21.5vh;
+    left: 46.5px;
+    bottom: 127px;
 }
 a:nth-of-type(3) {
-    left: 27vw;
-    bottom: 20.5vh;
+    right: 148px;
+    top: 996px;
+}
+a:nth-of-type(4) {
+    right: 465px;
+    top: 701px;
+}
+a:nth-of-type(5) {
+    left: 576px;
+    top: 628px;
+}
+a:nth-of-type(6) {
+    right: 148px;
+    top: 189px;
+}
+a:nth-of-type(7) {
+    left: 266px;
+    top: 247px;
+}
+a:nth-of-type(8) {
+    left: 130px;
+    top: 885px;
 }

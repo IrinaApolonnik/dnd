@@ -1,0 +1,23 @@
+body {
+    overflow: hidden;
+}
+#ms1 {
+    top: 117px;
+    left: 162px;
+}
+#ms2 {
+    top: 117px;
+    left: 388px;
+}
+#ms3 {
+    top: 117px;
+    right: 389px;
+}
+#ms4 {
+    top: 117px;
+    right: 163px;
+}
+#ms5 {
+    top: 117px;
+    left: 162px;
+}

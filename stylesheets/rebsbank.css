@@ -1,0 +1,11 @@
+body {
+    overflow: hidden;
+}
+#rb1 {
+    top: 132px;
+    left: 264px;
+}
+#rb2 {
+    bottom: 130px;
+    left: 264px;
+}
